@@ -1,0 +1,190 @@
+Chatbot Test Conversation Log
+
+Total queries tested: 62
+
+1. [radno_vrijeme] Query: Kad radite?
+   Reply: Otvoreni smo uto–ned 10:00–18:00. Ponedjeljkom zatvoreno.
+
+2. [radno_vrijeme] Query: Koje je radno vrijeme?
+   Reply: Otvoreni smo uto–ned 10:00–18:00. Ponedjeljkom zatvoreno.
+
+3. [radno_vrijeme] Query: Do kada ste otvoreni danas?
+   Reply: Otvoreni smo uto–ned 10:00–18:00. Ponedjeljkom zatvoreno.
+
+4. [radno_vrijeme] Query: Radno vrjeme?
+   Reply: Otvoreni smo uto–ned 10:00–18:00. Ponedjeljkom zatvoreno.
+
+5. [radno_vrijeme] Query: Kad ste otvoreni?
+   Reply: Otvoreni smo uto–ned 10:00–18:00. Ponedjeljkom zatvoreno.
+
+6. [radno_vrijeme] Query: Jel radite sutra?
+   Reply: Otvoreni smo uto–ned 10:00–18:00. Ponedjeljkom zatvoreno.
+
+7. [radno_vrijeme] Query: Radno vrijeme pls
+   Reply: Otvoreni smo uto–ned 10:00–18:00. Ponedjeljkom zatvoreno.
+
+8. [ulaznice] Query: Koliko košta ulaznica?
+   Reply: Opća ulaznica iznosi 12 €, studenti/umirovljenici 8 €, djeca do 12 g. besplatno.
+
+9. [ulaznice] Query: Cijena karata?
+   Reply: Opća ulaznica iznosi 12 €, studenti/umirovljenici 8 €, djeca do 12 g. besplatno.
+
+10. [ulaznice] Query: Imate li popust za studente?
+   Reply: Opća ulaznica iznosi 12 €, studenti/umirovljenici 8 €, djeca do 12 g. besplatno.
+
+11. [ulaznice] Query: Kolko je karta?
+   Reply: Otvoreni smo uto–ned 10:00–18:00. Ponedjeljkom zatvoreno.
+
+12. [ulaznice] Query: Uaznice
+   Reply: Otvoreni smo uto–ned 10:00–18:00. Ponedjeljkom zatvoreno.
+
+13. [ulaznice] Query: Ulaz pls
+   Reply: Otvoreni smo uto–ned 10:00–18:00. Ponedjeljkom zatvoreno.
+
+14. [ulaznice] Query: Cijna ulaznce
+   Reply: Otvoreni smo uto–ned 10:00–18:00. Ponedjeljkom zatvoreno.
+
+15. [adresa] Query: Gdje se nalazite?
+   Reply: Gradski Muzej Rivertown, Riječka avenija 12, Zagreb.
+
+16. [adresa] Query: Koja je adresa muzeja?
+   Reply: Gradski Muzej Rivertown, Riječka avenija 12, Zagreb.
+
+17. [adresa] Query: Lokacija?
+   Reply: Otvoreni smo uto–ned 10:00–18:00. Ponedjeljkom zatvoreno.
+
+18. [adresa] Query: gdj ste?
+   Reply: Otvoreni smo uto–ned 10:00–18:00. Ponedjeljkom zatvoreno.
+
+19. [adresa] Query: Adrs muzeja?
+   Reply: Otvoreni smo uto–ned 10:00–18:00. Ponedjeljkom zatvoreno.
+
+20. [adresa] Query: Di je muzej?
+   Reply: Otvoreni smo uto–ned 10:00–18:00. Ponedjeljkom zatvoreno.
+
+21. [danas_izlozbe] Query: Što ima danas od izložbi?
+   Reply: Današnji naglasci: 'Impresionisti Save' i 'Stari obrti Slavonije'.
+
+22. [danas_izlozbe] Query: Što je danas na programu?
+   Reply: Današnji naglasci: 'Impresionisti Save' i 'Stari obrti Slavonije'.
+
+23. [danas_izlozbe] Query: Koje izložbe su danas?
+   Reply: Otvoreni smo uto–ned 10:00–18:00. Ponedjeljkom zatvoreno.
+
+24. [danas_izlozbe] Query: Danas izlozbe?
+   Reply: Otvoreni smo uto–ned 10:00–18:00. Ponedjeljkom zatvoreno.
+
+25. [danas_izlozbe] Query: kaj ima za vidjet danas?
+   Reply: Opća ulaznica iznosi 12 €, studenti/umirovljenici 8 €, djeca do 12 g. besplatno.
+
+26. [danas_izlozbe] Query: Program za danas pls
+   Reply: Opća ulaznica iznosi 12 €, studenti/umirovljenici 8 €, djeca do 12 g. besplatno.
+
+27. [kafic] Query: Imate li kafić?
+   Reply: Kafić Riverbend u prizemlju nudi grickalice, kavu i čaj.
+
+28. [kafic] Query: Gdje mogu popiti kavu?
+   Reply: Kafić Riverbend u prizemlju nudi grickalice, kavu i čaj.
+
+29. [kafic] Query: Di je kafić?
+   Reply: Otvoreni smo uto–ned 10:00–18:00. Ponedjeljkom zatvoreno.
+
+30. [kafic] Query: Kafic?
+   Reply: Otvoreni smo uto–ned 10:00–18:00. Ponedjeljkom zatvoreno.
+
+31. [kafic] Query: Kafa gdje?
+   Reply: Toaleti su na svakom katu pokraj dizala.
+
+32. [kafic] Query: Imate kafeteriju?
+   Reply: Opća ulaznica iznosi 12 €, studenti/umirovljenici 8 €, djeca do 12 g. besplatno.
+
+33. [toaleti] Query: Gdje je WC?
+   Reply: Toaleti su na svakom katu pokraj dizala.
+
+34. [toaleti] Query: Gdje su toaleti?
+   Reply: Toaleti su na svakom katu pokraj dizala.
+
+35. [toaleti] Query: WC pls
+   Reply: Toaleti su na svakom katu pokraj dizala.
+
+36. [toaleti] Query: Toalt?
+   Reply: Otvoreni smo uto–ned 10:00–18:00. Ponedjeljkom zatvoreno.
+
+37. [toaleti] Query: Imate li zahod?
+   Reply: Opća ulaznica iznosi 12 €, studenti/umirovljenici 8 €, djeca do 12 g. besplatno.
+
+38. [toaleti] Query: WC gdje se nalazi?
+   Reply: Gradski Muzej Rivertown, Riječka avenija 12, Zagreb.
+
+39. [pristupacnost] Query: Jeste li pristupačni za invalidska kolica?
+   Reply: Osiguran je pristup za invalidska kolica, dizala i besplatan ulaz za pratnju.
+
+40. [pristupacnost] Query: Imate li dizalo?
+   Reply: Osiguran je pristup za invalidska kolica, dizala i besplatan ulaz za pratnju.
+
+41. [pristupacnost] Query: Kolica invalidska?
+   Reply: Otvoreni smo uto–ned 10:00–18:00. Ponedjeljkom zatvoreno.
+
+42. [pristupacnost] Query: Dali mogu u kolicima?
+   Reply: Otvoreni smo uto–ned 10:00–18:00. Ponedjeljkom zatvoreno.
+
+43. [pristupacnost] Query: Pristup za invalide?
+   Reply: Opća ulaznica iznosi 12 €, studenti/umirovljenici 8 €, djeca do 12 g. besplatno.
+
+44. [pristupacnost] Query: Dizlo imate?
+   Reply: Opća ulaznica iznosi 12 €, studenti/umirovljenici 8 €, djeca do 12 g. besplatno.
+
+45. [parking] Query: Ima li parking?
+   Reply: Podzemna garaža je odmah do muzeja; prvi sat je besplatan.
+
+46. [parking] Query: Gdje mogu parkirati?
+   Reply: Podzemna garaža je odmah do muzeja; prvi sat je besplatan.
+
+47. [parking] Query: Parking?
+   Reply: Podzemna garaža je odmah do muzeja; prvi sat je besplatan.
+
+48. [parking] Query: Prking blizu?
+   Reply: Otvoreni smo uto–ned 10:00–18:00. Ponedjeljkom zatvoreno.
+
+49. [parking] Query: Gdje stavit auto?
+   Reply: Toaleti su na svakom katu pokraj dizala.
+
+50. [parking] Query: Parkirlište?
+   Reply: Otvoreni smo uto–ned 10:00–18:00. Ponedjeljkom zatvoreno.
+
+51. [clanstvo] Query: Nudite li članstvo?
+   Reply: Članarina od 45 € godišnje – besplatan ulaz i pozivnice za događaje.
+
+52. [clanstvo] Query: Kako postati član?
+   Reply: Članarina od 45 € godišnje – besplatan ulaz i pozivnice za događaje.
+
+53. [clanstvo] Query: Clanstvo?
+   Reply: Otvoreni smo uto–ned 10:00–18:00. Ponedjeljkom zatvoreno.
+
+54. [clanstvo] Query: Kako se uclanit?
+   Reply: Otvoreni smo uto–ned 10:00–18:00. Ponedjeljkom zatvoreno.
+
+55. [clanstvo] Query: Imate li pretplatu?
+   Reply: Opća ulaznica iznosi 12 €, studenti/umirovljenici 8 €, djeca do 12 g. besplatno.
+
+56. [clanstvo] Query: Članska karta?
+   Reply: Otvoreni smo uto–ned 10:00–18:00. Ponedjeljkom zatvoreno.
+
+57. [kontakt] Query: Kako vas mogu kontaktirati?
+   Reply: Kontakt: +385 1 555 123, hello@rivertownmuseum.hr.
+
+58. [kontakt] Query: Broj telefona?
+   Reply: Kontakt: +385 1 555 123, hello@rivertownmuseum.hr.
+
+59. [kontakt] Query: Imate mail?
+   Reply: Opća ulaznica iznosi 12 €, studenti/umirovljenici 8 €, djeca do 12 g. besplatno.
+
+60. [kontakt] Query: kontakt?
+   Reply: Otvoreni smo uto–ned 10:00–18:00. Ponedjeljkom zatvoreno.
+
+61. [kontakt] Query: Email adresa?
+   Reply: Otvoreni smo uto–ned 10:00–18:00. Ponedjeljkom zatvoreno.
+
+62. [kontakt] Query: Kako stupiti u vezu?
+   Reply: Otvoreni smo uto–ned 10:00–18:00. Ponedjeljkom zatvoreno.
+
